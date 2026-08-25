@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="2060" viewBox="0 0 1240 2060">
+<rect width="1240" height="2060" fill="#ffffff"/>
+<text x="70" y="70" font-size="46" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Tela 03 — Configurações</text>
+<text x="70" y="112" font-size="25" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Padrão de cores e tamanho dos tijolos</text>
+<text x="1170" y="70" font-size="25" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="end">T03</text>
+<line x1="70" y1="132" x2="1170" y2="132" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="270" y="162" width="720" height="1520" fill="#e8e8e8" stroke="none" stroke-width="2" rx="44"/>
+<rect x="260" y="150" width="720" height="1520" fill="#ffffff" stroke="#262626" stroke-width="3" rx="44"/>
+<line x1="300" y1="226" x2="940" y2="226" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<text x="312" y="198" font-size="30" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">9:41</text>
+<rect x="810" y="182" width="28" height="21" fill="none" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="838" y="186" width="9" height="13" fill="#262626" stroke="none" stroke-width="2"/>
+<circle cx="856" cy="192" r="3.5" fill="#262626" stroke="none" stroke-width="2"/>
+<rect x="748" y="184" width="22" height="17" fill="none" stroke="#262626" stroke-width="2.5" rx="4"/>
+<rect x="548.0" y="166" width="144" height="28" fill="#eaeaea" stroke="none" stroke-width="2" rx="14"/>
+<rect x="548.0" y="1648" width="144" height="8" fill="#c9c9c9" stroke="none" stroke-width="2" rx="4"/>
+<line x1="260" y1="226" x2="980" y2="226" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<path d="M306,284 L338,252 L370,284" fill="none" stroke="#262626" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="408" y="290" font-size="36" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Configurações</text>
+<line x1="260" y1="314" x2="980" y2="314" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<text x="300" y="348" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">COR DOS TIJOLOS</text>
+<text x="300" y="382" font-size="23" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Escolha a paleta usada na parede do jogo</text>
+<rect x="300" y="402" width="304" height="132" fill="#ffffff" stroke="#262626" stroke-width="3" rx="14"/>
+<rect x="324" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="376" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="428" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="480" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<text x="324" y="508" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Clássico</text>
+<text x="582" y="438" font-size="32" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="end">✓</text>
+<rect x="632" y="402" width="304" height="132" fill="#ffffff" stroke="#262626" stroke-width="2" rx="14" stroke-dasharray="6,5"/>
+<rect x="656" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="708" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="760" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="812" y="430" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<text x="656" y="508" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Neon</text>
+<rect x="300" y="552" width="304" height="132" fill="#ffffff" stroke="#262626" stroke-width="2" rx="14" stroke-dasharray="6,5"/>
+<rect x="324" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="376" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="428" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="480" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<text x="324" y="658" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Pastel</text>
+<rect x="632" y="552" width="304" height="132" fill="#ffffff" stroke="#262626" stroke-width="2" rx="14" stroke-dasharray="6,5"/>
+<rect x="656" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="708" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="760" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<rect x="812" y="580" width="40" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2" rx="8"/>
+<text x="656" y="658" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Retrô</text>
+<text x="300" y="752" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">TAMANHO DOS TIJOLOS</text>
+<text x="300" y="786" font-size="23" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Aplicado na geração da parede de cada nível</text>
+<rect x="300" y="806" width="200" height="150" fill="#ffffff" stroke="#262626" stroke-width="2" rx="14" stroke-dasharray="6,5"/>
+<rect x="368.0" y="836" width="64" height="30" fill="#d9d9d9" stroke="#262626" stroke-width="2.5" rx="6"/>
+<text x="400" y="904" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">P — Pequeno</text>
+<text x="400" y="934" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">64 × 24</text>
+<rect x="524" y="806" width="200" height="150" fill="#ffffff" stroke="#262626" stroke-width="3" rx="14"/>
+<rect x="584.0" y="836" width="80" height="30" fill="#d9d9d9" stroke="#262626" stroke-width="2.5" rx="6"/>
+<text x="624" y="904" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">M — Médio</text>
+<text x="624" y="934" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">80 × 30</text>
+<text x="700" y="838" font-size="28" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="end">✓</text>
+<rect x="748" y="806" width="200" height="150" fill="#ffffff" stroke="#262626" stroke-width="2" rx="14" stroke-dasharray="6,5"/>
+<rect x="798.0" y="836" width="100" height="30" fill="#d9d9d9" stroke="#262626" stroke-width="2.5" rx="6"/>
+<text x="848" y="904" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">G — Grande</text>
+<text x="848" y="934" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">100 × 38</text>
+<rect x="405.0" y="996" width="430" height="80" fill="#333333" stroke="#262626" stroke-width="2.5" rx="18"/>
+<text x="620.0" y="1047.0" font-size="32" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">SALVAR CONFIGURAÇÕES</text>
+<text x="620.0" y="1116" font-size="23" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">Configurações salvas localmente (shared_preferences)</text>
+<line x1="296" y1="402" x2="165" y2="402" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="402" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="414" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<line x1="296" y1="830" x2="165" y2="830" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="830" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="842" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<line x1="966" y1="934" x2="1070" y2="934" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="1070" cy="934" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="1070" y="946" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">3</text>
+<line x1="384.0" y1="1046" x2="165" y2="1022" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="1022" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="1034" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">4</text>
+<line x1="70" y1="1720" x2="1170" y2="1720" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="88" cy="1748" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1755" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<text x="116" y="1755" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Cores: 4 paletas pré-definidas (seleção única)</text>
+<circle cx="88" cy="1804" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1811" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<text x="116" y="1811" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Tamanho: 3 opções pré-definidas (P/M/G)</text>
+<circle cx="88" cy="1860" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1867" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">3</text>
+<text x="116" y="1867" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Valores usados na geração da parede (Bloco/Parede)</text>
+<circle cx="88" cy="1916" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1923" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">4</text>
+<text x="116" y="1923" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Salvar: persiste e volta ao menu</text>
+</svg>

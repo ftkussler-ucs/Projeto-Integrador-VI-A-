@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="2060" viewBox="0 0 1240 2060">
+<rect width="1240" height="2060" fill="#ffffff"/>
+<text x="70" y="70" font-size="46" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Tela 01 — Menu Inicial</text>
+<text x="70" y="112" font-size="25" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Tela inicial: logotipo + 3 opções principais</text>
+<text x="1170" y="70" font-size="25" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="end">T01</text>
+<line x1="70" y1="132" x2="1170" y2="132" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="270" y="162" width="720" height="1520" fill="#e8e8e8" stroke="none" stroke-width="2" rx="44"/>
+<rect x="260" y="150" width="720" height="1520" fill="#ffffff" stroke="#262626" stroke-width="3" rx="44"/>
+<line x1="300" y1="226" x2="940" y2="226" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<text x="312" y="198" font-size="30" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">9:41</text>
+<rect x="810" y="182" width="28" height="21" fill="none" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="838" y="186" width="9" height="13" fill="#262626" stroke="none" stroke-width="2"/>
+<circle cx="856" cy="192" r="3.5" fill="#262626" stroke="none" stroke-width="2"/>
+<rect x="748" y="184" width="22" height="17" fill="none" stroke="#262626" stroke-width="2.5" rx="4"/>
+<rect x="548.0" y="166" width="144" height="28" fill="#eaeaea" stroke="none" stroke-width="2" rx="14"/>
+<rect x="548.0" y="1648" width="144" height="8" fill="#c9c9c9" stroke="none" stroke-width="2" rx="4"/>
+<rect x="406.0" y="336" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="494.0" y="336" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="582.0" y="336" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="670.0" y="336" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="758.0" y="336" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="406.0" y="388" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="494.0" y="388" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="582.0" y="388" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="670.0" y="388" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="758.0" y="388" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="406.0" y="440" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="494.0" y="440" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="582.0" y="440" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="670.0" y="440" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="758.0" y="440" width="76" height="40" fill="#e6e6e6" stroke="#262626" stroke-width="2.5" rx="6"/>
+<text x="620.0" y="554" font-size="58" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle" letter-spacing="6">BRICK BREAKER</text>
+<text x="620.0" y="600" font-size="27" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">Clássico Breakout · UCS</text>
+<rect x="385.0" y="660" width="470" height="90" fill="#333333" stroke="#262626" stroke-width="2.5" rx="18"/>
+<text x="620.0" y="716.0" font-size="32" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">INICIAR JOGO</text>
+<rect x="385.0" y="778" width="470" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="18"/>
+<text x="620.0" y="834.0" font-size="32" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">INTEGRANTES</text>
+<rect x="385.0" y="896" width="470" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="18"/>
+<text x="620.0" y="952.0" font-size="32" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">CONFIGURAÇÕES</text>
+<text x="620.0" y="1614" font-size="23" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">Versão 1.0.0 · Projeto Integrador VI-A</text>
+<line x1="385.0" y1="705" x2="165" y2="705" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="705" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="717" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<line x1="385.0" y1="823" x2="165" y2="823" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="823" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="835" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<line x1="385.0" y1="941" x2="165" y2="941" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="941" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="953" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">3</text>
+<line x1="860.0" y1="326" x2="1070" y2="276" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="1070" cy="276" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="1070" y="288" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">4</text>
+<line x1="980.0" y1="1614" x2="1075" y2="1614" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="1075" cy="1614" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="1075" y="1626" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">5</text>
+<line x1="70" y1="1720" x2="1170" y2="1720" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="88" cy="1748" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1755" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<text x="116" y="1755" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Iniciar Jogo: entra direto no Nível 1</text>
+<circle cx="623" cy="1748" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="623" y="1755" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<text x="651" y="1755" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Integrantes: lista do grupo</text>
+<circle cx="88" cy="1804" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1811" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">3</text>
+<text x="116" y="1811" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Configurações: cores e tamanho dos tijolos</text>
+<circle cx="681" cy="1804" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="681" y="1811" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">4</text>
+<text x="709" y="1811" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Logo do jogo (blocos empilhados)</text>
+<circle cx="88" cy="1860" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1867" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">5</text>
+<text x="116" y="1867" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Rodapé com versão do app</text>
+</svg>

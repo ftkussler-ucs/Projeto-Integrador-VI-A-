@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="1320" viewBox="0 0 1520 1320">
+<rect width="1520" height="1320" fill="#ffffff"/>
+<text x="70" y="70" font-size="44" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Fluxo de Navegação — Brick Breaker</text>
+<text x="70" y="110" font-size="25" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Telas do aplicativo e suas transições</text>
+<line x1="70" y1="130" x2="1450" y2="130" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="60" y="240" width="280" height="190" fill="#333333" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="200.0" y="344.0" font-size="27" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">MENU INICIAL</text>
+<text x="200.0" y="377.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T01</text>
+<rect x="620" y="130" width="260" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="750.0" y="184.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">INTEGRANTES</text>
+<text x="750.0" y="217.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T02</text>
+<rect x="620" y="290" width="260" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="750.0" y="344.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">CONFIGURAÇÕES</text>
+<text x="750.0" y="377.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T03</text>
+<rect x="620" y="450" width="260" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="750.0" y="504.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">JOGO — NÍVEL 1</text>
+<text x="750.0" y="537.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T04-1</text>
+<path d="M342,295 L618,175" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M605.9,188.3 L618,175 L600.0,174.8" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="480.0" y="217.0" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">toque</text>
+<path d="M342,335 L618,335" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M601.6,342.3 L618,335 L601.6,327.7" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="480.0" y="317.0" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">toque</text>
+<path d="M342,375 L618,495" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M600.0,495.2 L618,495 L605.9,481.7" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="480.0" y="475.0" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">toque</text>
+<rect x="40" y="640" width="200" height="90" fill="#333333" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="140.0" y="694.0" font-size="27" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">NÍVEL 1</text>
+<text x="140.0" y="727.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T04-1</text>
+<rect x="350" y="640" width="200" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="450.0" y="694.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">NÍVEL 2</text>
+<text x="450.0" y="727.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T04-2</text>
+<rect x="660" y="640" width="200" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="760.0" y="694.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">NÍVEL 3</text>
+<text x="760.0" y="727.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T04-3</text>
+<rect x="970" y="640" width="200" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="1070.0" y="694.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">NÍVEL 4</text>
+<text x="1070.0" y="727.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T04-4</text>
+<rect x="1280" y="640" width="200" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="1380.0" y="694.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">NÍVEL 5</text>
+<text x="1380.0" y="727.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T04-5</text>
+<path d="M230.0,685 L360.0,685" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M343.6,692.3 L360.0,685 L343.6,677.7" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="295.0" y="667.0" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">automático</text>
+<path d="M540.0,685 L670.0,685" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M653.6,692.3 L670.0,685 L653.6,677.7" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="605.0" y="667.0" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">automático</text>
+<path d="M850.0,685 L980.0,685" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M963.6,692.3 L980.0,685 L963.6,677.7" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="915.0" y="667.0" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">automático</text>
+<path d="M1160.0,685 L1290.0,685" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1273.6,692.3 L1290.0,685 L1273.6,677.7" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1225.0" y="667.0" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">automático</text>
+<rect x="300" y="880" width="240" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="420.0" y="934.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">BOLA PERDIDA</text>
+<text x="420.0" y="967.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">T05</text>
+<path d="M80.0,730 L80.0,830 L380,830 L380,878" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M372.7,861.6 L380,878 L387.3,861.6" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="122" y="762" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">bola caiu</text>
+<path d="M400,878 L400,820 L180,820 L180,732" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M187.3,748.4 L180,732 L172.7,748.4" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="796" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">recomeçar</text>
+<path d="M480,878 L480,820 L400,820 L400,732" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M407.3,748.4 L400,732 L392.7,748.4" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="440" y="796" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">próximo</text>
+<rect x="1240" y="830" width="200" height="90" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="14"/>
+<text x="1340.0" y="884.0" font-size="27" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">FIM DO JOGO</text>
+<text x="1340.0" y="917.0" font-size="20" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">volta ao menu</text>
+<path d="M1420,730 L1420,800 L1320,800 L1320,828" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1312.7,811.6 L1320,828 L1327.3,811.6" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1402" y="765" font-size="19" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="end">todos os níveis</text>
+<path d="M1340,920 L1340,1000 L26,1000 L26,430 L100,430" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.6,437.3 L100,430 L83.6,422.7" fill="none" stroke="#555555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="600" y="1034" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">volta ao menu</text>
+<line x1="70" y1="1170" x2="1170" y2="1170" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="88" cy="1198" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1205" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<text x="116" y="1205" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Entre níveis: avanço automático</text>
+<circle cx="553" cy="1198" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="553" y="1205" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<text x="581" y="1205" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Bola perdida: recomeçar ou avançar</text>
+<circle cx="88" cy="1254" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1261" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">3</text>
+<text x="116" y="1261" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Integrantes/Configurações retornam ao menu (voltar)</text>
+</svg>
