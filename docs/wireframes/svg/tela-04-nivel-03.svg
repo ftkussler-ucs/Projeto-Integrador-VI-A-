@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="2060" viewBox="0 0 1240 2060">
+<rect width="1240" height="2060" fill="#ffffff"/>
+<text x="70" y="70" font-size="46" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Tela 04 — Nível 3 de 5</text>
+<text x="70" y="112" font-size="25" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Parede em pirâmide</text>
+<text x="1170" y="70" font-size="25" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="end">T04-3</text>
+<line x1="70" y1="132" x2="1170" y2="132" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="270" y="162" width="720" height="1520" fill="#e8e8e8" stroke="none" stroke-width="2" rx="44"/>
+<rect x="260" y="150" width="720" height="1520" fill="#ffffff" stroke="#262626" stroke-width="3" rx="44"/>
+<line x1="300" y1="226" x2="940" y2="226" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<text x="312" y="198" font-size="30" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">9:41</text>
+<rect x="810" y="182" width="28" height="21" fill="none" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="838" y="186" width="9" height="13" fill="#262626" stroke="none" stroke-width="2"/>
+<circle cx="856" cy="192" r="3.5" fill="#262626" stroke="none" stroke-width="2"/>
+<rect x="748" y="184" width="22" height="17" fill="none" stroke="#262626" stroke-width="2.5" rx="4"/>
+<rect x="548.0" y="166" width="144" height="28" fill="#eaeaea" stroke="none" stroke-width="2" rx="14"/>
+<rect x="548.0" y="1648" width="144" height="8" fill="#c9c9c9" stroke="none" stroke-width="2" rx="4"/>
+<line x1="260" y1="226" x2="980" y2="226" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<line x1="260" y1="314" x2="980" y2="314" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<text x="302" y="286" font-size="30" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">NÍVEL 3/5</text>
+<text x="664" y="286" font-size="28" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="end">PONTOS  0</text>
+<rect x="766" y="246" width="66" height="46" fill="#f3f3f3" stroke="#262626" stroke-width="2" rx="10"/>
+<rect x="787" y="259" width="9" height="20" fill="#262626" stroke="none" stroke-width="2"/>
+<rect x="804" y="259" width="9" height="20" fill="#262626" stroke="none" stroke-width="2"/>
+<rect x="842" y="246" width="66" height="46" fill="#f3f3f3" stroke="#262626" stroke-width="2" rx="10"/>
+<path d="M859,259 l10,0 l12,-10 v34 l-12,-10 h-10 z" fill="none" stroke="#262626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M890,255 a10,10 0 0 1 0,28" fill="none" stroke="#262626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="540" y="338" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="624" y="338" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="456" y="394" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="540" y="394" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="624" y="394" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="708" y="394" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="372" y="450" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="456" y="450" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="540" y="450" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="624" y="450" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="708" y="450" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="792" y="450" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="288" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="372" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="456" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="540" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="624" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="708" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="792" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="876" y="506" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="540" y="562" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="624" y="562" width="74" height="44" fill="#f3f3f3" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="685.0" y="1477.0" width="150" height="26" fill="#d9d9d9" stroke="#262626" stroke-width="3" rx="13"/>
+<circle cx="760" cy="1280" r="13" fill="#262626" stroke="none" stroke-width="2"/>
+<path d="M760,1280 L890,1020 L710,820" fill="none" stroke="#8f8f8f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,6"/>
+<path d="M348,1556 L892,1556 M875.6,1563.3 L892,1556 L875.6,1548.7" fill="none" stroke="#262626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6,7"/>
+<text x="620.0" y="1536" font-size="21" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="middle">arrastar para mover (segue o dedo)</text>
+<rect x="288" y="314" width="664" height="1266" fill="none" stroke="#8f8f8f" stroke-width="1.5" rx="14" stroke-dasharray="8,6"/>
+<line x1="875" y1="286" x2="1070" y2="230" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="1070" cy="230" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="1070" y="242" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<line x1="760" y1="1280" x2="1070" y2="1170" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="1070" cy="1170" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="1070" y="1182" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<line x1="835" y1="1490" x2="1070" y2="1460" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="1070" cy="1460" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="1070" y="1472" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">3</text>
+<line x1="314" y1="1572" x2="165" y2="1620" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="1620" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="1632" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">4</text>
+<line x1="296" y1="324" x2="165" y2="324" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="324" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="336" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">5</text>
+<line x1="70" y1="1720" x2="1170" y2="1720" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="88" cy="1748" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1755" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<text x="116" y="1755" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">HUD: nível (X/5), pontos, pausa e som</text>
+<circle cx="623" cy="1748" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="623" y="1755" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<text x="651" y="1755" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Bola: lançada com ângulo aleatório</text>
+<circle cx="88" cy="1804" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1811" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">3</text>
+<text x="116" y="1811" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Paddle: segue o toque no eixo X; colisão → som</text>
+<circle cx="88" cy="1860" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1867" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">4</text>
+<text x="116" y="1867" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Bola passou do paddle → diálogo Bola Perdida</text>
+<circle cx="88" cy="1916" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1923" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">5</text>
+<text x="116" y="1923" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Formato piramidal: 2/4/6/8/2 blocos centralizados</text>
+</svg>

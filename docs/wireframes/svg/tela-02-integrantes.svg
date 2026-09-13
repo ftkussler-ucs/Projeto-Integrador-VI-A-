@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="2060" viewBox="0 0 1240 2060">
+<rect width="1240" height="2060" fill="#ffffff"/>
+<text x="70" y="70" font-size="46" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Tela 02 — Integrantes</text>
+<text x="70" y="112" font-size="25" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Lista com nome e sobrenome dos 5 integrantes</text>
+<text x="1170" y="70" font-size="25" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="end">T02</text>
+<line x1="70" y1="132" x2="1170" y2="132" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="270" y="162" width="720" height="1520" fill="#e8e8e8" stroke="none" stroke-width="2" rx="44"/>
+<rect x="260" y="150" width="720" height="1520" fill="#ffffff" stroke="#262626" stroke-width="3" rx="44"/>
+<line x1="300" y1="226" x2="940" y2="226" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<text x="312" y="198" font-size="30" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">9:41</text>
+<rect x="810" y="182" width="28" height="21" fill="none" stroke="#262626" stroke-width="2.5" rx="6"/>
+<rect x="838" y="186" width="9" height="13" fill="#262626" stroke="none" stroke-width="2"/>
+<circle cx="856" cy="192" r="3.5" fill="#262626" stroke="none" stroke-width="2"/>
+<rect x="748" y="184" width="22" height="17" fill="none" stroke="#262626" stroke-width="2.5" rx="4"/>
+<rect x="548.0" y="166" width="144" height="28" fill="#eaeaea" stroke="none" stroke-width="2" rx="14"/>
+<rect x="548.0" y="1648" width="144" height="8" fill="#c9c9c9" stroke="none" stroke-width="2" rx="4"/>
+<line x1="260" y1="226" x2="980" y2="226" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<path d="M306,284 L338,252 L370,284" fill="none" stroke="#262626" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="408" y="290" font-size="36" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">Integrantes</text>
+<text x="928" y="290" font-size="25" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="end">5 membros</text>
+<line x1="260" y1="314" x2="980" y2="314" stroke="#e3e3e3" stroke-width="2" stroke-linecap="round"/>
+<rect x="284" y="312" width="672" height="96" fill="#f6f6f6" stroke="none" stroke-width="2" rx="14"/>
+<circle cx="336" cy="358" r="34" fill="#d9d9d9" stroke="#262626" stroke-width="2.5"/>
+<text x="336" y="368" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">AV</text>
+<text x="392" y="350" font-size="29" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">ANDERSON</text>
+<text x="392" y="382" font-size="27" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">VANZETTO</text>
+<line x1="284" y1="422" x2="956" y2="422" stroke="#e3e3e3" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="336" cy="486" r="34" fill="#d9d9d9" stroke="#262626" stroke-width="2.5"/>
+<text x="336" y="496" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">EC</text>
+<text x="392" y="478" font-size="29" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">EMILLY</text>
+<text x="392" y="510" font-size="27" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">CORCETE</text>
+<line x1="284" y1="550" x2="956" y2="550" stroke="#e3e3e3" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="284" y="568" width="672" height="96" fill="#f6f6f6" stroke="none" stroke-width="2" rx="14"/>
+<circle cx="336" cy="614" r="34" fill="#d9d9d9" stroke="#262626" stroke-width="2.5"/>
+<text x="336" y="624" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">FK</text>
+<text x="392" y="606" font-size="29" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">FRANCIELE</text>
+<text x="392" y="638" font-size="27" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">TERNES KUSSLER</text>
+<line x1="284" y1="678" x2="956" y2="678" stroke="#e3e3e3" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="336" cy="742" r="34" fill="#d9d9d9" stroke="#262626" stroke-width="2.5"/>
+<text x="336" y="752" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">MA</text>
+<text x="392" y="734" font-size="29" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">MONIQUE</text>
+<text x="392" y="766" font-size="27" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">CRISTINA LEÃO ALVES</text>
+<line x1="284" y1="806" x2="956" y2="806" stroke="#e3e3e3" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="284" y="824" width="672" height="96" fill="#f6f6f6" stroke="none" stroke-width="2" rx="14"/>
+<circle cx="336" cy="870" r="34" fill="#d9d9d9" stroke="#262626" stroke-width="2.5"/>
+<text x="336" y="880" font-size="25" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">LS</text>
+<text x="392" y="862" font-size="29" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="start">LUCCAS</text>
+<text x="392" y="894" font-size="27" fill="#5c5c5c" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">FAGUNDES DE SOUZA</text>
+<line x1="284" y1="934" x2="956" y2="934" stroke="#e3e3e3" stroke-width="1.5" stroke-linecap="round"/>
+<text x="300" y="1610" font-size="22" fill="#8f8f8f" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Lista rolável (ListView) — nome e sobrenome dos integrantes</text>
+<line x1="300" y1="358" x2="165" y2="300" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="165" cy="300" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="165" y="312" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<line x1="974" y1="266" x2="1070" y2="250" stroke="#c62828" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,4"/>
+<circle cx="1070" cy="250" r="24" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="1070" y="262" font-size="26" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<line x1="70" y1="1720" x2="1170" y2="1720" stroke="#8f8f8f" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="88" cy="1748" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="88" y="1755" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">1</text>
+<text x="116" y="1755" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Avatar com iniciais + nome e sobrenome</text>
+<circle cx="634" cy="1748" r="19" fill="#c62828" stroke="none" stroke-width="2"/>
+<text x="634" y="1755" font-size="21" fill="#ffffff" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" text-anchor="middle">2</text>
+<text x="662" y="1755" font-size="24" fill="#262626" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="normal" text-anchor="start">Botão voltar → Menu Inicial</text>
+</svg>

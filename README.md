@@ -1,17 +1,17 @@
-# meu_brick_breaker
+# Projeto Integrador VI-A — Brick Breaker
 
-A new Flutter project.
+Aplicativo móvel do jogo clássico **Brick Breaker (Breakout)**, desenvolvido para a disciplina de Projeto Integrador VI-A.
 
-## Getting Started
+## Documentação
 
-This project is a starting point for a Flutter application.
+* [Ambiente de desenvolvimento, tecnologias e geração do APK](docs/ambiente-desenvolvimento.md)
+* Wireframe de todas as telas do aplicativo *(em construção)*
+* Documentação dos métodos de construção da parede de blocos *(em construção)*
 
-A few resources to get you started if this is your first Flutter project:
+## Integrantes
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* ANDERSON VANZETTO
+* EMILLY CORCETE
+* FRANCIELE TERNES KUSSLER
+* MONIQUE CRISTINA LEÃO ALVES
+* LUCCAS FAGUNDES DE SOUZA
